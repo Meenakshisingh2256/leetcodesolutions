@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

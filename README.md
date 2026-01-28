@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -47,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

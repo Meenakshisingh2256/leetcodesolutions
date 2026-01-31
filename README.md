@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Meenakshisingh2256/leetcodesolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
